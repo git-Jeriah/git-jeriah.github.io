@@ -1,0 +1,9 @@
+.alertContainer {
+    height: 35px;
+    padding-left: 20px;
+    padding-top: 4px;
+    font-weight: bold;
+    &.animated {
+      display: inline-block;
+    }
+  }
