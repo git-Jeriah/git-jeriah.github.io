@@ -1,6 +1,6 @@
 # Brittney N. Workman
 
-![plant-transparent-png-3.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/master/docs/plant-transparent-png-3.png)
+![plantpic.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/980177a9f583bb3fda00e918955c2cf39e72bba5/docs/plantpic.png)
 
 
 ## **Interests**
