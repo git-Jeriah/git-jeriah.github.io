@@ -8,6 +8,36 @@ Data management & visualization, predictive modeling, data mining, programming &
 ### Applied Behavior Analysis
 Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
+## **Technical Skills & Competencies**
+
+•	Excel & Visual Basic for Applications (VBA)
+•	Python
+•	R
+•	SPSS
+•	Statistical Analysis (Multivariate)
+•	Programming & Application Development
+•	Data & Qualitative Analysis
+•	Applying Methodologies
+
+## **Education**
+
+### MA IN EXPERIMENTAL PSYCHOLOGY • 2021 • TOWSON UNIVERSITY
+Thesis: *Observer Reliability as a Function of Observer Load in Behavior Data Collection*
+GPA: 3.8
+
+### BS IN PSYCHOLOGY • 2017 • TOWSON UNIVERSITY
+GPA: 3.5
+
+## **Experience**
+
+### RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021
+Developed automated data collection system reducing managerial duties and processing time by approximately 60%.
+
+### CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019
+Developed individualized plans for the assessment and treatment of pediatric feeding disorders based on principles of applied behavior analysis.
+
+
+
 
 ```markdown
 Syntax highlighted code block
