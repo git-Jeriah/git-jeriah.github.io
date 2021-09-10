@@ -1,19 +1,19 @@
 # Brittney N. Workman
 
-![docs/plant-transparent-png-3.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/master/docs/plant-transparent-png-3.png)
+![plant-transparent-png-3.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/master/docs/plant-transparent-png-3.png)
 
 
 ## **Interests**
 
-#### Data Science
+### Data Science
 Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
 
-#### Applied Behavior Analysis
+### Applied Behavior Analysis
 Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
 <hr />
 
-### **Technical Skills & Competencies**
+## **Technical Skills & Competencies**
 
 •	Excel & Visual Basic for Applications (VBA)
 
@@ -33,28 +33,28 @@ Organizational behavior management (OBM), behavior systems analysis (BSA), data 
 
 <hr />
 
-### **Education**
+## **Education**
 
-#### **MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
+### **MA in Experimental Psychology • Towson University • 2021**
 
 Thesis: *Observer Reliability as a Function of Observer Load in Behavior Data Collection*
 
 GPA: 3.8
 
-#### **BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
+### **BS in Psychology • Towson University • 2017**
 
 GPA: 3.5
 
 <hr />
 
 
-### **Experience**
+## **Experience**
 
-#### **RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021**
+### **Research Assistant II • Kennedy Krieger Institute • 2019 to 2021**
 
 Developed automated data collection system reducing managerial duties and processing time by approximately 60%.
 
-#### **CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019**
+### **Clinical Specialist • Kennedy Krieger Institute • 2017 to 2019**
 
 Developed individualized plans for the assessment and treatment of pediatric feeding disorders based on principles of applied behavior analysis.
 
