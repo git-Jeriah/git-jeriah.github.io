@@ -11,7 +11,7 @@ Data management & visualization, predictive modeling, data mining, programming &
 #### Applied Behavior Analysis
 Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
-
+<hr />
 
 ### **Technical Skills & Competencies**
 
