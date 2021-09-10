@@ -22,10 +22,13 @@ Organizational behavior management (OBM), behavior systems analysis (BSA), data 
 ## **Education**
 
 **MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
+
 Thesis: *Observer Reliability as a Function of Observer Load in Behavior Data Collection*
+
 GPA: 3.8
 
 **BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
+
 GPA: 3.5
 
 ## **Experience**
