@@ -1,15 +1,14 @@
 # Brittney N. Workman
 
 ![docs/plant-transparent-png-3.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/df2adadd38e491e7fd315b6a44b1ecc1dca7a2d7/docs/plant-transparent-png-3.png)
-Format: ![Alt Text](url)
 
 
 ### **Interests**
 
-##### Data Science
+#### Data Science
 Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
 
-##### Applied Behavior Analysis
+#### Applied Behavior Analysis
 Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
 
@@ -36,13 +35,13 @@ Organizational behavior management (OBM), behavior systems analysis (BSA), data 
 
 ### **Education**
 
-##### **MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
+#### **MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
 
 Thesis: *Observer Reliability as a Function of Observer Load in Behavior Data Collection*
 
 GPA: 3.8
 
-##### **BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
+#### **BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
 
 GPA: 3.5
 
@@ -50,11 +49,11 @@ GPA: 3.5
 
 ### **Experience**
 
-##### **RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021**
+#### **RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021**
 
 Developed automated data collection system reducing managerial duties and processing time by approximately 60%.
 
-##### **CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019**
+#### **CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019**
 
 Developed individualized plans for the assessment and treatment of pediatric feeding disorders based on principles of applied behavior analysis.
 
