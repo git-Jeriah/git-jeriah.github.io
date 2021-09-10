@@ -11,32 +11,41 @@ Organizational behavior management (OBM), behavior systems analysis (BSA), data 
 ## **Technical Skills & Competencies**
 
 •	Excel & Visual Basic for Applications (VBA)
+
 •	Python
+
 •	R
+
 •	SPSS
+
 •	Statistical Analysis (Multivariate)
+
 •	Programming & Application Development
+
 •	Data & Qualitative Analysis
+
 •	Applying Methodologies
 
 ## **Education**
 
-**MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
+### **MA IN EXPERIMENTAL PSYCHOLOGY • TOWSON UNIVERSITY • 2021**
 
 Thesis: *Observer Reliability as a Function of Observer Load in Behavior Data Collection*
 
 GPA: 3.8
 
-**BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
+### **BS IN PSYCHOLOGY • TOWSON UNIVERSITY • 2017**
 
 GPA: 3.5
 
 ## **Experience**
 
-**RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021**
+### **RESEARCH ASSISTANT II • KENNEDY KRIEGER INSTITUTE • 2019 TO 2021**
+
 Developed automated data collection system reducing managerial duties and processing time by approximately 60%.
 
-**CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019**
+### **CLINICAL SPECIALIST • KENNEDY KRIEGER INSTITUTE • 2017 TO 2019**
+
 Developed individualized plans for the assessment and treatment of pediatric feeding disorders based on principles of applied behavior analysis.
 
 
