@@ -3,7 +3,7 @@
 ![docs/plant-transparent-png-3.png](https://github.com/git-Jeriah/git-jeriah.github.io/blob/master/docs/plant-transparent-png-3.png)
 
 
-### **Interests**
+## **Interests**
 
 #### Data Science
 Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
