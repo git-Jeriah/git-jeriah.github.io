@@ -31,7 +31,7 @@ Organizational behavior management (OBM), behavior systems analysis (BSA), data 
 
 •	Applying Methodologies
 
-
+<hr />
 
 ### **Education**
 
@@ -45,6 +45,7 @@ GPA: 3.8
 
 GPA: 3.5
 
+<hr />
 
 
 ### **Experience**
