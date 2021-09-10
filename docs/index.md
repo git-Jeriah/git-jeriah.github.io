@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Brittney N. Workman
 
-You can use the [editor on GitHub](https://github.com/git-Jeriah/git-jeriah.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Data Science
+Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
 
-### Markdown
+# Applied Behavior Analysis
+Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
