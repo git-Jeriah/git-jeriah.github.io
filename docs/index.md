@@ -1,6 +1,6 @@
 # Brittney N. Workman
 
-## Interests
+## **Interests**
 
 ### Data Science
 Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
