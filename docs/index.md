@@ -1,11 +1,11 @@
-## Brittney N. Workman
+# Brittney N. Workman
 
-### Interests
+## Interests
 
-# Data Science
+### Data Science
 Data management & visualization, predictive modeling, data mining, programming & application development, multivariate statistics, information integration, time-series analysis, applied research methodologies
 
-# Applied Behavior Analysis
+### Applied Behavior Analysis
 Organizational behavior management (OBM), behavior systems analysis (BSA), data collection systems & processes, process improvement, training & development, performance management, efficiencies & effectiveness, behavioral modeling, feedback system
 
 
